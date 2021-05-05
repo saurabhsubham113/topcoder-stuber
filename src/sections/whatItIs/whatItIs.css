@@ -1,0 +1,38 @@
+#what-it-is {
+  padding-top: 10.8rem;
+}
+#what-it-is .body-section {
+  display: flex;
+  justify-content: space-between;
+}
+
+.img-container img {
+  width: 50.4rem;
+  height: 50.4rem;
+}
+
+.text-container {
+  width: 45rem;
+}
+
+.text-heading {
+  font-weight: 700;
+  font-size: 4.2rem;
+  line-height: 3.5rem;
+  margin-top: 7.7rem;
+  margin-bottom: 3.9rem;
+}
+
+.text-description {
+  line-height: 2.7rem;
+  color: #121212;
+}
+
+@media screen and (max-width: 767px) {
+  #what-it-is {
+    padding-top: 14.3rem;
+  }
+  #what-it-is .body-section {
+    flex-direction: column;
+  }
+}

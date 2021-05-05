@@ -22,9 +22,11 @@ header .nav-links {
 
 header .nav-link-item {
   margin: 0 1.2rem;
-  color: #fff;
 }
 
+header a {
+  color: #fff;
+}
 /* section starts */
 
 .header-section {
@@ -60,32 +62,12 @@ header .nav-link-item {
   height: 60rem;
 }
 
-/* body section */
-
-.body-section {
-  margin-top: 16.8rem;
-  display: flex;
-  justify-content: space-between;
-}
-
-.img-container img {
-  width: 50.4rem;
-  height: 50.4rem;
-}
-
-.text-container {
-  width: 45rem;
-}
-
-.text-heading {
-  font-weight: 700;
-  font-size: 4.2rem;
-  line-height: 3.5rem;
-  margin-top: 7.7rem;
-  margin-bottom: 3.9rem;
-}
-
-.text-description {
-  line-height: 2.7rem;
-  color: #121212;
+@media screen and (max-width: 767px) {
+  .header-section {
+    flex-direction: column-reverse;
+  }
+  .section-heading {
+    margin-top: 0rem;
+    text-align: center;
+  }
 }

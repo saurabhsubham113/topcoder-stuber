@@ -2,3 +2,8 @@
   width: 80%;
   margin: auto;
 }
+
+.section-container {
+  background-color: #111;
+  clip-path: polygon(0 10%, 100% 0, 100% 90%, 0% 100%);
+}

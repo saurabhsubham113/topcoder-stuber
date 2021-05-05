@@ -1,0 +1,30 @@
+.why-subter {
+  color: #fff;
+}
+
+.why-subter .heading {
+  text-align: center;
+  padding-top: 23.6rem;
+  font-weight: bold;
+  font-size: 4.2rem;
+  line-height: 3.5rem;
+}
+
+.why-subter .body-section {
+  display: flex;
+  margin-top: 6rem;
+  line-height: 2.7rem;
+}
+
+.why-subter .body-description {
+  margin-right: 7.2rem;
+}
+
+.why-subter figcaption {
+  margin-top: 3rem;
+  line-height: 2.7rem;
+}
+
+@media screen {
+  
+}

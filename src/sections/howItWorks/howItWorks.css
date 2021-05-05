@@ -1,0 +1,23 @@
+.how-it-works {
+  padding-top: 12.1rem;
+  margin-bottom: 5rem;
+}
+
+.how-it-works .body-section {
+  display: flex;
+  align-items: center;
+}
+.how-it-works .text-container {
+  margin-right: 3.7rem;
+}
+.how-it-works .heading {
+  font-weight: bold;
+  font-size: 4.2rem;
+  line-height: 3.5rem;
+  margin-bottom: 3rem;
+}
+
+.how-it-works .para-description {
+  line-height: 27px;
+  color: #121212;
+}

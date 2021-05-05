@@ -1,0 +1,24 @@
+.who-is-it-for {
+  padding-top: 10.9rem;
+  color: #fff;
+}
+.who-is-it-for .heading {
+  text-align: center;
+  font-weight: bold;
+  font-size: 4.2rem;
+  line-height: 3.5rem;
+  margin-bottom: 6rem;
+}
+.paragraph {
+  margin: 3rem 0rem;
+  line-height: 2.7rem;
+}
+.who-is-it-for span {
+  color: #1b7cfe;
+}
+.who-is-it-for .para-2 {
+  color: #12c188;
+}
+.who-is-it-for .para-4 {
+  padding-bottom: 15.5rem;
+}

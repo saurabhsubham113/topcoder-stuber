@@ -1,0 +1,33 @@
+.data-privacy {
+  padding-top: 19.4rem;
+  background-color: #f1f1f1;
+  clip-path: polygon(0 0, 100% 10%, 100% 90%, 0 100%);
+}
+
+.data-privacy .heading {
+  text-align: center;
+  font-weight: bold;
+  font-size: 4.2rem;
+  line-height: 3.5rem;
+  margin-bottom: 7rem;
+}
+
+.text-image {
+  display: flex;
+}
+
+.container-2 {
+  margin-top: 6.2rem;
+  flex-direction: row-reverse;
+  padding-bottom: 21rem;
+}
+.data-privacy p {
+  line-height: 27px;
+  color: #121212;
+}
+.data-privacy-desc-1 {
+  margin-right: 10rem;
+}
+.data-privacy-desc-2 {
+  margin-left: 10rem;
+}
